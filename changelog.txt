@@ -1,0 +1,15 @@
+--------------------------------------------------
+Jhyesdali QR Estudio - Registro de Cambios
+--------------------------------------------------
+
+Versión 1.0 - Noviembre 2025
+- Versión inicial del software.
+- Generación de códigos QR con parámetros personalizables.
+- Exportación a PNG, JPG, PDF y SVG.
+- Sistema de instalación completo con Inno Setup.
+- Documentación base (README, LICENSE, soporte técnico).
+
+Próximamente:
+- Integración de donaciones dentro de la app.
+- Soporte para QR dinámicos con enlaces personalizados.
+- Versión multiplataforma (Linux y macOS).

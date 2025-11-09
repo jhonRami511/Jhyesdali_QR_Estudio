@@ -1,0 +1,27 @@
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+
+# Carpetas de distribución
+dist/
+build/
+output/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de Inno Setup
+*.iss
+*.exe
+
+# Configuración local de usuario
+.vscode/
+.idea/

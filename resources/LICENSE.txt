@@ -1,0 +1,13 @@
+Licencia de Uso - Jhyesdali Studios
+
+Copyright (c) 2025 Jhyesdali Studios. Todos los derechos reservados.
+
+El software "Jhyesdali QR Estudio" es propiedad de Jhyesdali Studios. 
+Queda prohibida su distribución, modificación o uso comercial sin 
+autorización expresa y por escrito del autor.
+
+Este programa se distribuye “tal cual”, sin garantía de ningún tipo, 
+ya sea expresa o implícita, incluyendo pero no limitado a las 
+garantías de comerciabilidad o adecuación a un propósito particular.
+
+El uso de este software implica la aceptación de estos términos.
